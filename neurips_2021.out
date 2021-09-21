@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related Work}{}% 2
+\BOOKMARK [1][-]{section.3}{Prediction-change Plots}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Definition of the prediction-change Check}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Design of the Interactive Visualization Panel}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Experiments}{}% 6
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 7
+\BOOKMARK [1][-]{appendix.A}{Appendix}{}% 8
+\BOOKMARK [2][-]{subsection.A.1}{User Interface of the Prediction-change Plots}{appendix.A}% 9
+\BOOKMARK [2][-]{subsection.A.2}{Prediction-change Plots for Large Value Group}{appendix.A}% 10
+\BOOKMARK [2][-]{subsection.A.3}{Distributions of All CASP Data and Queried Samples}{appendix.A}% 11
+\BOOKMARK [2][-]{subsection.A.4}{Demo \046 Reproduce All Experiments}{appendix.A}% 12

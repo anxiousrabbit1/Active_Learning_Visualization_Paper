@@ -1,0 +1,108 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Schmidt(2020)]{schmidt2020interactive}
+Albrecht Schmidt.
+\newblock Interactive human centered artificial intelligence: A definition and
+  research challenges.
+\newblock In \emph{Proceedings of the International Conference on Advanced
+  Visual Interfaces}, pages 1--4, 2020.
+
+\bibitem[Nguyen and Mart{\'\i}nez(2019)]{mononet}
+An-phi Nguyen and Mar{\'\i}a~Rodr{\'\i}guez Mart{\'\i}nez.
+\newblock Mononet: towards interpretable models by learning monotonic features.
+\newblock \emph{arXiv preprint arXiv:1909.13611}, 2019.
+
+\bibitem[Shen et~al.(2004)Shen, Zhang, Su, Zhou, and Tan]{multicriteria}
+Dan Shen, Jie Zhang, Jian Su, Guodong Zhou, and Chew~Lim Tan.
+\newblock Multi-criteria-based active learning for named entity recognition.
+\newblock In \emph{Proceedings of the 42nd Annual Meeting of the Association
+  for Computational Linguistics (ACL-04)}, pages 589--596, 2004.
+
+\bibitem[Settles(2009)]{Settles}
+Burr Settles.
+\newblock Active learning literature survey.
+\newblock 2009.
+
+\bibitem[Lewis and Gale(1994)]{uncertainty}
+David~D. Lewis and William~A. Gale.
+\newblock A sequential algorithm for training text classifiers.
+\newblock In \emph{SIGIR '94}, pages 3--12, London, 1994. Springer London.
+\newblock ISBN 978-1-4471-2099-5.
+
+\bibitem[Abe(1998)]{Abe1998QueryLS}
+Naoki Abe.
+\newblock Query learning strategies using boosting and bagging.
+\newblock \emph{Proc. of 15\^{}< th> Int. Cmf. on Machine Learning (ICML98)},
+  pages 1--9, 1998.
+
+\bibitem[Goetz et~al.(2018)Goetz, Tewari, and Zimmerman]{NEURIPS2018_dc4c44f6}
+Jack Goetz, Ambuj Tewari, and Paul Zimmerman.
+\newblock Active learning for non-parametric regression using purely random
+  trees.
+\newblock \emph{Advances in Neural Information Processing Systems}, 31, 2018.
+
+\bibitem[Wu et~al.(2019)Wu, Lin, and Huang]{WU201990}
+Dongrui Wu, Chin-Teng Lin, and Jian Huang.
+\newblock Active learning for regression using greedy sampling.
+\newblock \emph{Information Sciences}, 474:\penalty0 90--105, 2019.
+
+\bibitem[Zhan et~al.(2021)Zhan, Li, and Chan]{zhan2021multiplecriteria}
+Xueying Zhan, Qing Li, and Antoni~B Chan.
+\newblock Multiple-criteria based active learning with fixed-size determinantal
+  point processes.
+\newblock \emph{arXiv preprint arXiv:2107.01622}, 2021.
+
+\bibitem[Beck et~al.(2021)Beck, Sivasubramanian, Dani, Ramakrishnan, and
+  Iyer]{beck2021effective}
+Nathan Beck, Durga Sivasubramanian, Apurva Dani, Ganesh Ramakrishnan, and
+  Rishabh Iyer.
+\newblock Effective evaluation of deep active learning on image classification
+  tasks.
+\newblock \emph{arXiv preprint arXiv:2106.15324}, 2021.
+
+\bibitem[Ash et~al.(2019)Ash, Zhang, Krishnamurthy, Langford, and
+  Agarwal]{ash2020deep}
+Jordan~T Ash, Chicheng Zhang, Akshay Krishnamurthy, John Langford, and Alekh
+  Agarwal.
+\newblock Deep batch active learning by diverse, uncertain gradient lower
+  bounds.
+\newblock \emph{arXiv preprint arXiv:1906.03671}, 2019.
+
+\bibitem[clo()]{cloudera}
+Visualizing active learning.
+\newblock URL
+  \url{https://blog.fastforwardlabs.com/2019/04/29/visualizing-active-learning.html}.
+
+\bibitem[Limberg et~al.(2019)Limberg, Krieger, Wersing, and Ritter]{inbook}
+Christian Limberg, Kathrin Krieger, Heiko Wersing, and Helge Ritter.
+\newblock Active learning for image recognition using a visualization-based
+  user interface.
+\newblock In \emph{International Conference on Artificial Neural Networks},
+  pages 495--506. Springer, 2019.
+
+\bibitem[Iwata et~al.(2013)Iwata, Houlsby, and Ghahramani]{Iwata2013ActiveLF}
+Tomoharu Iwata, Neil Houlsby, and Zoubin Ghahramani.
+\newblock Active learning for interactive visualization.
+\newblock In \emph{Artificial Intelligence and Statistics}, pages 342--350.
+  PMLR, 2013.
+
+\bibitem[Ramirez-Loaiza et~al.(2017)Ramirez-Loaiza, Sharma, Kumar, and
+  Bilgic]{Ramirez}
+Maria~E Ramirez-Loaiza, Manali Sharma, Geet Kumar, and Mustafa Bilgic.
+\newblock Active learning: an empirical study of common baselines.
+\newblock \emph{Data mining and knowledge discovery}, 31\penalty0 (2):\penalty0
+  287--313, 2017.
+
+\bibitem[Rossi and Ahmed(2015)]{CASP}
+Ryan Rossi and Nesreen Ahmed.
+\newblock The network data repository with interactive graph analytics and
+  visualization.
+\newblock In \emph{Twenty-Ninth AAAI Conference on Artificial Intelligence},
+  2015.
+
+\end{thebibliography}
